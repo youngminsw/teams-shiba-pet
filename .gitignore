@@ -1,0 +1,26 @@
+# 개인 설정/상태 (각자 환경에서 생성됨)
+config.json
+pet.log
+pos.json
+
+# 머신 종속 실행 스크립트 (절대경로 포함)
+start_pet.vbs
+toggle_pet.vbs
+
+# 빌드 산출물/환경
+dist/
+build/
+buildenv/
+*.spec
+TeamsPet_배포용.zip
+pybuild/
+pybuild.zip
+py_installer.exe
+__pycache__/
+*.pyc
+
+# 임시 파일
+screenshot.png
+crop*.png
+errdlg.png
+install_startup.bat
