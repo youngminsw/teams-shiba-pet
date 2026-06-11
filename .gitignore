@@ -24,3 +24,6 @@ screenshot.png
 crop*.png
 errdlg.png
 install_startup.bat
+
+# 로컬 개발 노트 (실명 등 개인 정보 포함 — 공개 금지)
+CLAUDE.md
